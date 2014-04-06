@@ -110,7 +110,7 @@ body {
 }
 
 /* Landscape phone to portrait tablet */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 	
 	#myCarousel .item {	
 		height: 310px;
