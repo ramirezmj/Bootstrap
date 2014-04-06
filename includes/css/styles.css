@@ -14,6 +14,13 @@ Notes:	 Hand coded for Udemy.com
    Layout
    -------------------------------------- */
 
+#features {
+	text-align: center;
+}
+
+#features img {
+	margin: 0 0 20px;
+}
 
 
 /* --------------------------------------
